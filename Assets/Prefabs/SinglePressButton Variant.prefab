@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &467755603410277317
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1675801829709991006, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_Name
+      value: FloorButtonBorder2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675801829709991006, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1675801829709991006, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989938150418188516, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_Color.b
+      value: 0.08235294
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989938150418188516, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_Color.g
+      value: 0.40392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989938150418188516, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.726
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3116169821982610766, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4168161406239866643, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_Name
+      value: SinglePressButton Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4168161406239866643, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4168161406239866643, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
+      propertyPath: m_TagString
+      value: SinglePressButton
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0e68374466686b041a48d40446b0eb60, type: 3}
